@@ -1,16 +1,16 @@
 ---
 layout: meeting
-author: Krzysztof Poterlowicz, Amber Leckenby, Katarzyna Murat
-title: NorthernBUG 4
-date: Friday 26th April 2019
+author: Krzysztof Poterlowicz,...
+title: NorthernBUG 9
+date: Friday 21st January 2022
 institute: University of Bradford
 postcode: BD7 1DB
-permalink: northernbug4
+permalink: northernbug9
 ---
 
 # General
 
-NorthernBUG 4 will be held at the University of Bradford on Friday 26th April 2019, starting at 12pm with lunch and finishing at 5pm, followed by drinks at a local pub.
+NorthernBUG 9 will be held at the University of Bradford on Friday 21st January 2022, starting at 12pm with lunch and finishing at 5pm, followed by drinks at a local pub.
 
 The meeting will take place at **Norcroft Conference Centre 9 Tumbling Hill St, Bradford BD7 1DB.** 
 
@@ -20,7 +20,6 @@ We're looking for a range of:
 - 10 minute talks (if you would like to talk for longer please just let us know).
 - Posters accompanied by a 1-2 minute teaser talk. These are great for those who might be earlier on in their bioinformatics journey!
 
-We noticed a lot of younger delegates at the last BUG meeting in Newcastle and would really like to see everyone get involved in the meeting in Bradford. 
 
 If anyone would like to fill any of these slots please contact [Amber Leckenby](mailto:A.Leckenby@bradford.ac.uk) and please extend the invite around your lab/department etc!
 
